@@ -11,7 +11,17 @@ Paste your link into a text box then [copy the ID](https://pasteboard.co/JTfPXac
 ```
 sh start.sh [File ID] [File Name]
 ```
+## Requirements 
+[git](https://git-scm.com/downloads)
 ## Download
 ```
-wget https://github.com/RedGamingBlue/Google-Drive-Download-CLI/releases/download/Files/start.sh
+git clone https://github.com/RedGamingBlue/Google-Drive-Download-CLI
+cd Google-Drive-Download-CLI/
+nano Start.sh
 ```
+Copy the contents in Start.sh then exit nano
+```
+touch start.sh
+nano start.sh
+```
+Paste the contents into start.sh then save and exit nano
