@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ $# != 2 ]; then
-echo "Usage: start.sh ID filename"
+echo "Usage: sh start.sh FileID FileName"
 exit 0
 fi
 confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id='$1 -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')
