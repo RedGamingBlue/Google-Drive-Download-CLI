@@ -11,3 +11,7 @@ Paste your link into a text box then [copy the ID](https://pasteboard.co/JTfPXac
 ```
 sh Start.sh [File ID] [File Name]
 ```
+## Download
+```
+wget https://github.com/RedGamingBlue/Google-Drive-Download-CLI/releases/download/Files/Start.sh
+```
