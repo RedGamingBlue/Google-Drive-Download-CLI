@@ -13,5 +13,5 @@ sh start.sh [File ID] [File Name]
 ```
 ## Download
 ```
-wget https://github.com/RedGamingBlue/Google-Drive-Download-CLI/releases/download/Files/Start.sh
+wget https://github.com/RedGamingBlue/Google-Drive-Download-CLI/releases/download/Files/start.sh
 ```
