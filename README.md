@@ -9,7 +9,7 @@ Then Click Copy Link
 Paste your link into a text box then [copy the ID](https://pasteboard.co/JTfPXac.png)
 ## Usage
 ```
-sh Start.sh [File ID] [File Name]
+sh start.sh [File ID] [File Name]
 ```
 ## Download
 ```
